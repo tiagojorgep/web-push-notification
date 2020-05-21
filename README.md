@@ -167,7 +167,7 @@ export class AppComponent implements OnInit {
 }
 ```
 
-Build the project whti opption --prod (push with service worker works just in production mode)
+Build the project with opption --prod (push with service worker works just in production mode)
 
 ```bash
 $ ng build --prod
