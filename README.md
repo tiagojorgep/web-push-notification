@@ -70,7 +70,7 @@ Now our server are ready to receive subscriptions and send notifications to subs
 
 ## Subscripting and sending notification to a topic
 
-Assuming that you are running the server at your machine and you don't changed the port tha our server is listening, the address to our server will be `http://localhost:5000`.
+Assuming that you are running the server at your machine and you don't changed the port that our server is listening, the address to our server will be `http://localhost:5000`.
 
 
 ### Subscripting
