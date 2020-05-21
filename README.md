@@ -198,4 +198,5 @@ Content-Type: application/json
 
 That's it! If you did all steps successfully, a push notification will appear at you screen.
 
--- Author: [@tiagojorgep](https://github.com/tiagojorgep)
+-- Author: [@tiagojorgep](https://github.com/tiagojorgep)<br>
+-- Linkedin: https://www.linkedin.com/in/tiagojorgep/
