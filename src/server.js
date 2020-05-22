@@ -59,7 +59,7 @@ app.post('/subscription/:topic', (req, res) => {
                 console.log(`Subscription to topic '${topic}' received from '${req.ip}' | We have ${fakeDatabase.length} active subscriptions.`);
             }
             // send a ok status
-            res.status(200).send('OK')
+            res.status(200).send({ status: 'OK' })
         } else {
             // topic not informed refuse subscription
             res.status(400).send('Bad Request.');
