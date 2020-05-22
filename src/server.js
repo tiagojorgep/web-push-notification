@@ -95,7 +95,7 @@ app.post('/sendNotification/:topic', (req, res) => {
                         },
                         vibrate: [500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500],
                         actions: [
-                            { action: 'openApp', title: 'AutomatizaProvedor' }
+                            { action: 'explore', title: 'Open URL' }
                         ],
                         requireInteraction: false,
                         renotify: false
